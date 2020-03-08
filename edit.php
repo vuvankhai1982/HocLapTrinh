@@ -1,4 +1,2 @@
 <?php
 echo "xxxxx";
-e
-?>
